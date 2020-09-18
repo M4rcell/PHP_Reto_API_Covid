@@ -17,7 +17,7 @@
 <body>
     <div class="card" >
         <div class="card-header">
-        Casos COVID-19 en Perú al 2020-07-15
+        Casos COVID-19 en Perú al 2020-07-17
         </div>
         <ul class="list-group list-group-flush">
             <li class="list-group-item"> <?php include './view/datatable.php'; ?></li>
