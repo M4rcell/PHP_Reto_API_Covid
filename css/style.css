@@ -1,0 +1,16 @@
+.card{
+    width: 65rem;
+    margin-left: 15%;
+    margin-right: 100px;
+}
+.card-header{
+  font-weight: bold;
+  font-size: 30px;
+}
+.chart{
+    padding: 10px;
+}
+
+.dttable{
+    padding: 10px;
+}
